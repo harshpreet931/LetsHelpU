@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 100%;
+    overflow-x: hidden;
+}
+
+a{
+    cursor: pointer;
+    font-weight: 700;
+}
